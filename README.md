@@ -13,3 +13,5 @@ The project comprising of 8 layers of Neural Networks for the eye blink detectio
 * Layer-8 -> Dense
 
 ![](good_man.gif)
+This video shows the dataset preparation process using openCV.
+
