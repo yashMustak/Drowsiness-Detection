@@ -11,3 +11,5 @@ The project comprising of 8 layers of Neural Networks for the eye blink detectio
 * Layer-6 -> Dense
 * Layer-7 -> Dropout(0.5)
 * Layer-8 -> Dense
+
+![Watch Dataset Creation in Action](/video/good_man.mp4)
