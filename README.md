@@ -12,6 +12,4 @@ The project comprising of 8 layers of Neural Networks for the eye blink detectio
 * Layer-7 -> Dropout(0.5)
 * Layer-8 -> Dense
 
-<video width="900px">
-  <source src="/video/good_man.mp4" type="video/mp4">
-</video>
+[](good_man.gif)
